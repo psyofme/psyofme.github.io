@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Get in touch with Mr. An Van Nguyen and the Inner Space team.
+description: Get in touch with Mr. An Van Nguyen and the psyofme team.
 permalink: /contact/
 ---
 
@@ -9,11 +9,11 @@ permalink: /contact/
 # Get in Touch
 
 We'd love to hear from you! Whether you have questions about our content, suggestions for future topics, or just want to share your thoughts on psychology and mental well-being, we're here to listen. <br>
-Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and the **Inner Space** team.
+Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and the **psyofme** team.
 
 ## Contact Information
 
-**Email**: [contact@innerspacepsych.com](mailto:contact@innerspacepsych.com)
+**Email**: [contact@psyofme.com](mailto:contact@psyofme.com)
 
 **Response Time**: We typically respond to emails within 2-3 business days.
 
@@ -21,14 +21,14 @@ Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and th
 
 - **Topic Suggestions**: Is there a particular aspect of psychology you'd like us to explore?
 - **Questions**: Have questions about content we've covered?
-- **Feedback**: How can we improve your experience on Inner Space?
+- **Feedback**: How can we improve your experience on psyofme?
 - **Collaboration**: Interested in guest posting or partnership opportunities?
 
 ## Social Media
 
 Stay connected with us for daily insights and updates:
 
-- **Twitter**: [@innerspacepsych](https://twitter.com/innerspacepsych) - Daily tips and research highlights
+- **Twitter**: [@psyofme](https://twitter.com/psyofme) - Daily tips and research highlights
 - **GitHub**: [anvndev](https://github.com/anvndev) - Technical aspects of the blog
 
 
@@ -45,4 +45,4 @@ For non-emergency but urgent mental health support, please contact your local me
 
 ---
 
-*We appreciate your interest in Inner Space and look forward to connecting with you!*
+*We appreciate your interest in psyofme and look forward to connecting with you!*

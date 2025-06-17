@@ -1,18 +1,18 @@
 # Site settings
-title: Inner Space
-email: contact@innerspacepsych.com
+title: psyofme
+email: contact@psyofme.com
 description: >-
   Exploring the depths of human psychology through evidence-based insights,
   personal growth strategies, and mindful living practices.
 baseurl: ""
 url: "https://anvndev.github.io"
-twitter_username: innerspacepsych
+twitter_username: psyofme
 github_username: anvndev
 
 # Author settings
 author:
   name: Mr. An Nguyen
-  email: sarah@innerspacepsych.com
+  email: sarah@psyofme.com
   bio: "Licensed Clinical Psychologist specializing in cognitive behavioral therapy, mindfulness, and personal growth."
   avatar: "/assets/images/author-avatar.jpg"
 
@@ -33,9 +33,9 @@ plugins:
 
 # SEO settings
 social:
-  name: Inner Space
+  name: psyofme
   links:
-    - https://twitter.com/innerspacepsych
+    - https://twitter.com/psyofme
     - https://github.com/anvndev
 
 # Archives

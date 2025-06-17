@@ -3,19 +3,19 @@
 ======================================== */
 :root {
   /* Light Theme Colors */
-  --primary-color: #317c56;
+  --primary-color: #1E3B2C;
   --secondary-color: #7C8D85;
   --forest-color: #2C4A3B;
   --cream-color: #F5F1E8;
   --background-color: #FFFFFF;
   --card-background: #FFFFFF;
   --text-primary: #333333;
-  --text-secondary: #535353;
-  --text-muted: #535353;
+  --text-secondary: #666666;
+  --text-muted: #999999;
   --border-color: rgba(124, 141, 133, 0.2);
   --shadow-color: rgba(30, 59, 44, 0.1);
   --shadow-hover: rgba(30, 59, 44, 0.15);
-  --text-white: #ffffff;
+  --text-white: #FFFFFF;
   
   /* Typography */
   --font-heading: 'Merriweather', serif;
@@ -52,7 +52,6 @@
   --border-color: rgba(229, 229, 229, 0.1);
   --shadow-color: rgba(0, 0, 0, 0.3);
   --shadow-hover: rgba(0, 0, 0, 0.4);
-  --text-white: #ffffff;
 }
 
 /* ========================================

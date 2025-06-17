@@ -1,19 +1,19 @@
 ---
 layout: page
 title: About
-description: Learn about Mr. An Van Nguyen (anvndev) and the mission behind Inner Space psychology blog.
+description: Learn about Mr. An Van Nguyen (anvndev) and the mission behind psyofme psychology blog.
 permalink: /about/
 ---
 
-## About *Inner Space*
+## About *psyofme*
 
-Welcome to Inner Space, a thoughtful exploration of human psychology, mental well-being, and the journey toward greater self-understanding.
+Welcome to psyofme, a thoughtful exploration of human psychology, mental well-being, and the journey toward greater self-understanding.
 
-**Inner Space** is a personal project created by **Mr. An Van Nguyen [anvndev](https://anvndev.github.io/)** — a space to share reflections, emotional experiences, and psychological insights.
+**psyofme** is a personal project created by **Mr. An Van Nguyen [anvndev](https://anvndev.github.io/)** — a space to share reflections, emotional experiences, and psychological insights.
 
 Born out of a desire to express inner thoughts and promote self-understanding, this project aims to offer a quiet place where stories are told with honesty and empathy.
 
-Through each written piece, I hope you'll find something meaningful — whether it’s strength, clarity, or simply a sense of comfort in knowing you're not alone.
+Through each written piece, I hope you'll find something meaningful — whether it's strength, clarity, or simply a sense of comfort in knowing you're not alone.
 
 **Wishing you peace, growth, and all good things on your journey.**
 
@@ -24,13 +24,13 @@ In our fast-paced world, we often forget to pause and explore our inner landscap
 
 ## About Me
 
-I’m **Mr. An Van Nguyen**, also known as **anvndev** — a curious mind with a deep passion for psychology and inner exploration.
+I'm **Mr. An Van Nguyen**, also known as **anvndev** — a curious mind with a deep passion for psychology and inner exploration.
 
-As the founder of **Inner Space**, I created this project with the hope of building a quiet, reflective place — where we can pause, heal, and gradually understand ourselves better.
+As the founder of **psyofme**, I created this project with the hope of building a quiet, reflective place — where we can pause, heal, and gradually understand ourselves better.
 
 I believe that by listening to our inner world and embracing our shared stories, we can find strength, connection, and compassion — both for ourselves and for others.
 
-> “Healing begins in silence, and growth begins with awareness.”
+> "Healing begins in silence, and growth begins with awareness."
 
 Thank you for being here. 🌿
 
@@ -62,8 +62,8 @@ While this blog provides educational content about psychology and mental health,
 
 We'd love to hear from you! Share your thoughts, questions, or topic suggestions:
 
-- **Email**: [contact@innerspacepsych.com](mailto:contact@innerspacepsych.com)
-- **Twitter**: [@innerspacepsych](https://twitter.com/innerspacepsych)
+- **Email**: [contact@psyofme.com](mailto:contact@psyofme.com)
+- **Twitter**: [@psyofme](https://twitter.com/psyofme)
 
 ## Disclaimer
 

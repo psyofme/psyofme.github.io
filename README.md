@@ -1,14 +1,14 @@
-# [Inner Space - Psychology Blog](https://anvndev.github.io/inner-space/)
+# [psyofme - Psychology Blog](https://anvndev.github.io/psyofme/)
 
 A professional Jekyll-based blog focused on psychology, mental health, mindfulness, and personal growth. Built with clean design principles and optimized for readability and user experience.
 
-## 🧠 About Inner Space
+## 🧠 About psyofme
 
-**Inner Space** is a personal project created by **Mr. An Van Nguyen [anvndev](https://anvndev.github.io/)** — a space to share reflections, emotional experiences, and psychological insights.
+**psyofme** is a personal project created by **Mr. An Van Nguyen [anvndev](https://anvndev.github.io/)** — a space to share reflections, emotional experiences, and psychological insights.
 
 Born out of a desire to express inner thoughts and promote self-understanding, this project aims to offer a quiet place where stories are told with honesty and empathy.
 
-Through each written piece, I hope you'll find something meaningful — whether it’s strength, clarity, or simply a sense of comfort in knowing you're not alone.
+Through each written piece, I hope you'll find something meaningful — whether it's strength, clarity, or simply a sense of comfort in knowing you're not alone.
 
 **Wishing you peace, growth, and all good things on your journey.**
 
@@ -33,8 +33,8 @@ Through each written piece, I hope you'll find something meaningful — whether 
 
 ```bash
 # Clone the repository
-git clone https://github.com/anvndev/inner-space.git
-cd inner-space
+git clone https://github.com/anvndev/psyofme.git
+cd psyofme
 
 # Install dependencies
 bundle install
@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Contact**: [avndev](https://anvndev.github.io/)
-- **Twitter**: [@innerspacepsych](https://twitter.com/innerspacepsych)
+- **Twitter**: [@psyofme](https://twitter.com/psyofme)
 - **GitHub**:  [anvndev](https://github.com/anvndev)
 
 ## 🙏 Acknowledgments
