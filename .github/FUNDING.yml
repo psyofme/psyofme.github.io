@@ -1,0 +1,9 @@
+# Example FUNDING.yml
+github: anvndev
+patreon: anvndev
+ko-fi: anvndev
+
+custom:
+  - url: https://www.paypal.me/anvndev
+    description: "Support via PayPal"
+    image: https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png
