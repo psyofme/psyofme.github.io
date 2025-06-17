@@ -28,7 +28,7 @@ Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and th
 
 Stay connected with us for daily insights and updates:
 
-- **Twitter**: [@psyofme](https://twitter.com/psyofme) - Daily tips and research highlights
+- **Twitter**: [@psyofme](https://x.com/psyofme) - Daily tips and research highlights
 - **GitHub**: [anvndev](https://github.com/anvndev) - Technical aspects of the blog
 
 
