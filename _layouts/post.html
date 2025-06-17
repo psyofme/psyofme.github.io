@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="container">
+      {% if page.image %}
+        <div class="post-image">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" itemprop="image">
+        </div>
+      {% endif %}
+      
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+      
+      <div class="post-meta">
+        <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+        
+        {% if page.author %}
+          <span class="post-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            by <span itemprop="name">{{ page.author }}</span>
+          </span>
+        {% endif %}
+        
+        {% if page.categories.size > 0 %}
+          <div class="post-categories">
+            {% for category in page.categories %}
+              <a href="{{ site.baseurl }}/category/{{ category | slugify }}/" class="category-link">{{ category }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+        
+        <span class="reading-time">{{ content | number_of_words | divided_by: 200 }} min read</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="post-content container" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% if page.tags.size > 0 %}
+    <footer class="post-footer container">
+      <div class="post-tags">
+        <span class="tags-label">Tagged with:</span>
+        {% for tag in page.tags %}
+          <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/" class="tag-link"># {{ tag }}</a>
+        {% endfor %}
+      </div>
+    </footer>
+  {% endif %}
+</article>
+
+{% if site.related_posts.size > 0 %}
+  <section class="related-posts">
+    <div class="container">
+      <h3>Related Articles</h3>
+      <div class="related-posts-grid">
+        {% for post in site.related_posts limit:3 %}
+          <article class="related-post">
+            {% if post.image %}
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+            {% endif %}
+            <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+            <time>{{ post.date | date: "%B %d, %Y" }}</time>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endif %}

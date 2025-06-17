@@ -1,0 +1,60 @@
+---
+layout: page
+title: Topics
+description: Explore psychology topics organized by category.
+permalink: /categories/
+---
+
+<div class="categories-page">
+  <div class="categories-intro">
+    <p>Explore our psychology content organized by topic. Each category offers evidence-based insights and practical strategies for understanding human behavior and improving mental well-being.</p>
+  </div>
+
+  <div class="categories-list">
+    {% assign categories = site.categories | sort %}
+    {% for category in categories %}
+      <div class="category-section">
+        <h2 class="category-title" id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
+        
+        {% assign category_description = '' %}
+        {% case category[0] %}
+          {% when 'Clinical Psychology' %}
+            {% assign category_description = 'Evidence-based approaches to understanding and treating mental health conditions.' %}
+          {% when 'Personal Growth' %}
+            {% assign category_description = 'Strategies for developing resilience, self-awareness, and emotional intelligence.' %}
+          {% when 'Mindfulness' %}
+            {% assign category_description = 'Practical mindfulness techniques and the science behind contemplative practices.' %}
+          {% when 'Relationships' %}
+            {% assign category_description = 'Understanding interpersonal dynamics and building healthier connections.' %}
+          {% when 'Research & Studies' %}
+            {% assign category_description = 'Latest findings in psychological research, explained in accessible language.' %}
+        {% endcase %}
+        
+        {% if category_description != '' %}
+          <p class="category-description">{{ category_description }}</p>
+        {% endif %}
+        
+        <div class="category-posts">
+          {% for post in category[1] limit:5 %}
+            <article class="category-post">
+              <h3 class="category-post-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h3>
+              <div class="category-post-meta">
+                <time>{{ post.date | date: "%B %d, %Y" }}</time>
+                <span class="reading-time">{{ post.content | number_of_words | divided_by: 200 }} min read</span>
+              </div>
+              <p class="category-post-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+            </article>
+          {% endfor %}
+          
+          {% if category[1].size > 5 %}
+            <a href="{{ '/category/' | append: category[0] | slugify | append: '/' | relative_url }}" class="view-more-link">
+              View all {{ category[1].size }} articles in {{ category[0] }} →
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

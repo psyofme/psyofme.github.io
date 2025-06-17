@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="archive-page">
+  <header class="archive-header">
+    <div class="container">
+      <h1 class="archive-title">
+        {% if page.type == 'category' %}
+          Category: {{ page.title }}
+        {% elsif page.type == 'tag' %}
+          Tag: {{ page.title }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      </h1>
+      {% if page.description %}
+        <p class="archive-description">{{ page.description }}</p>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="archive-content container">
+    <div class="posts-grid">
+      {% for post in page.posts %}
+        <article class="post-card">
+          {% if post.image %}
+            <div class="post-card-image">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+            </div>
+          {% endif %}
+          
+          <div class="post-card-content">
+            <h2 class="post-card-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+            
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            
+            <div class="post-card-meta">
+              <time>{{ post.date | date: "%B %d, %Y" }}</time>
+              {% if post.categories.size > 0 %}
+                <span class="post-card-category">{{ post.categories.first }}</span>
+              {% endif %}
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</div>

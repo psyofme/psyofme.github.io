@@ -1,0 +1,79 @@
+# Site settings
+title: Inner Space
+email: contact@innerspacepsych.com
+description: >-
+  Exploring the depths of human psychology through evidence-based insights,
+  personal growth strategies, and mindful living practices.
+baseurl: ""
+url: "https://anvndev.github.io"
+twitter_username: innerspacepsych
+github_username: anvndev
+
+# Author settings
+author:
+  name: Mr. An Nguyen
+  email: sarah@innerspacepsych.com
+  bio: "Licensed Clinical Psychologist specializing in cognitive behavioral therapy, mindfulness, and personal growth."
+  avatar: "/assets/images/author-avatar.jpg"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 6
+paginate_path: "/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# SEO settings
+social:
+  name: Inner Space
+  links:
+    - https://twitter.com/innerspacepsych
+    - https://github.com/anvndev
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
+# Collections
+collections:
+  resources:
+    output: true
+    permalink: /resources/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mr. An Nguyen"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .DS_Store

@@ -1,0 +1,23 @@
+{
+  "name": "inner-space-psychology-blog",
+  "version": "1.0.0",
+  "description": "A Jekyll-based psychology blog exploring mental health, mindfulness, and personal growth",
+  "scripts": {
+    "dev": "bundle exec jekyll serve --livereload",
+    "build": "JEKYLL_ENV=production bundle exec jekyll build",
+    "install": "bundle install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvndev/inner-space-blog"
+  },
+  "keywords": [
+    "psychology",
+    "mental-health",
+    "mindfulness",
+    "jekyll",
+    "blog"
+  ],
+  "author": "Mr. An Nguyen",
+  "license": "MIT"
+}

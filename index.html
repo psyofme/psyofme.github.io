@@ -1,0 +1,115 @@
+---
+layout: default
+title: Home
+description: Exploring the depths of human psychology through evidence-based insights and mindful living practices.
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <h1 class="hero-title">Welcome to Your Inner Space</h1>
+      <p class="hero-subtitle">
+        Explore the fascinating world of psychology through evidence-based insights, 
+        practical strategies for personal growth, and mindful approaches to mental well-being.
+      </p>
+      <a href="#latest-posts" class="hero-cta">
+        Start Reading
+        <span>→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="latest-posts" class="latest-posts">
+  <div class="container">
+    <h2 class="section-title">Latest Articles</h2>
+    
+    <div class="posts-grid">
+      {% for post in site.posts limit:6 %}
+        <article class="post-card {% if forloop.first %}featured{% endif %}">
+          {% if post.image %}
+            <div class="post-card-image">
+              <img data-src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+            </div>
+          {% endif %}
+          
+          <div class="post-card-content">
+            <h3 class="post-card-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+            
+            <div class="post-card-meta">
+              <time>{{ post.date | date: "%B %d, %Y" }}</time>
+              {% if post.categories.size > 0 %}
+                <span class="post-card-category">{{ post.categories.first }}</span>
+              {% endif %}
+              <span class="reading-time">{{ post.content | number_of_words | divided_by: 200 }} min read</span>
+              {% if post.author %}
+                <div class="author-info">
+                  <span>{{ post.author }}</span>
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+    
+    <div class="section-footer">
+      <a href="/categories/" class="view-all-link">
+        View All Articles
+        <span>→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="categories-section">
+  <div class="container">
+    <h2 class="section-title">Explore Topics</h2>
+    
+    <div class="categories-grid">
+      <div class="category-card">
+        <div class="category-icon">🧠</div>
+        <h3>Clinical Psychology</h3>
+        <p>Evidence-based approaches to understanding and treating mental health conditions with compassion and scientific rigor.</p>
+        <a href="/category/clinical-psychology/" class="category-link">
+          Explore
+          <span>→</span>
+        </a>
+      </div>
+      
+      <div class="category-card">
+        <div class="category-icon">🌱</div>
+        <h3>Personal Growth</h3>
+        <p>Strategies and insights for developing resilience, self-awareness, and emotional intelligence in daily life.</p>
+        <a href="/category/personal-growth/" class="category-link">
+          Explore
+          <span>→</span>
+        </a>
+      </div>
+      
+      <div class="category-card">
+        <div class="category-icon">🧘</div>
+        <h3>Mindfulness</h3>
+        <p>Practical mindfulness techniques and the science behind contemplative practices for mental well-being.</p>
+        <a href="/category/mindfulness/" class="category-link">
+          Explore
+          <span>→</span>
+        </a>
+      </div>
+      
+      <div class="category-card">
+        <div class="category-icon">💝</div>
+        <h3>Relationships</h3>
+        <p>Understanding interpersonal dynamics and building healthier, more meaningful connections with others.</p>
+        <a href="/category/relationships/" class="category-link">
+          Explore
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
