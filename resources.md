@@ -13,8 +13,8 @@ psyofme is not just a personal blog — it’s a quiet space for collective refl
 
 Have feedback, a personal story, or an idea for a future post? Your perspective matters. Feel free to reach out and share your reflections with us:
 
-📧 Email: psyofme [at] gmail [dot] com  
-🐦 Twitter: [@psyofme](https://twitter.com/psyofme)
+📧 **Email:** [psyofme](mailto:psyofme@gmail.com)
+🐦 **Twitter:** [@psyofme](https://twitter.com/psyofme)
 
 ### 📚 Contribute Resources
 
@@ -28,7 +28,7 @@ We appreciate and carefully consider all contributions. With your consent, selec
 
 ### ✍️ Want to Write?
 
-If you’re passionate about psychology, growth, and authentic storytelling, we’re open to future collaborations.  
+If you’re passionate about psychology, growth, and authentic storytelling, we’re open to future collaborations.
 Guest posts are welcome, especially if they echo the core themes of psyofme: self-awareness, emotional healing, and mindful living.
 
 Let’s build this space — together.
