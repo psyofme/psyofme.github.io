@@ -70,5 +70,6 @@ We'd love to hear from you! Share your thoughts, questions, or topic suggestions
 The content on this blog is for educational and informational purposes only. It is not intended to provide medical advice or to replace the advice of a qualified healthcare professional. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
 
 ---
+<br>
 
 *Thank you for joining us on this journey of exploration and growth. May you find insights that illuminate your path toward greater well-being and authentic living.*

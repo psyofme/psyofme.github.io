@@ -22,7 +22,16 @@
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/therapeutic-tools/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/shadow-work/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/resources/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/emotional-intelligence/</loc>

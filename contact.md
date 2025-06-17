@@ -44,5 +44,6 @@ Stay connected with us for daily insights and updates:
 For non-emergency but urgent mental health support, please contact your local mental health crisis center or speak with a qualified mental health professional.
 
 ---
+<br>
 
 *We appreciate your interest in psyofme and look forward to connecting with you!*
