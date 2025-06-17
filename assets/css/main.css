@@ -37,7 +37,7 @@
   --container-max-width: 1200px;
   --content-max-width: 800px;
   --border-radius: 8px;
-  --border-radius-lg: 12px;
+  --border-radius-lg: 50px;
   --transition: all 0.3s ease;
   --shadow: 0 2px 8px var(--shadow-color);
   --shadow-lg: 0 8px 25px var(--shadow-hover);
@@ -542,15 +542,15 @@ img {
 }
 
 .author-avatar {
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
   display: flex;
   align-items: center;
   justify-content: center;
   color: var(--cream-color);
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   font-weight: 600;
 }
 

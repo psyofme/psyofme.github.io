@@ -13,7 +13,7 @@ Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and th
 
 ## Contact Information
 
-**Email**: [contact@psyofme.com](mailto:contact@psyofme.com)
+**Email**: [psyofme](mailto:psyofme@gmail.com)
 
 **Response Time**: We typically respond to emails within 2-3 business days.
 

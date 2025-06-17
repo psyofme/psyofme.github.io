@@ -62,7 +62,7 @@ While this blog provides educational content about psychology and mental health,
 
 We'd love to hear from you! Share your thoughts, questions, or topic suggestions:
 
-- **Email**: [contact@psyofme.com](mailto:contact@psyofme.com)
+- **Email**: [psyofme](mailto:psyofme@gmail.com)
 - **Twitter**: [@psyofme](https://twitter.com/psyofme)
 
 ## Disclaimer
