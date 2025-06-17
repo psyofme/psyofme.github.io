@@ -5,16 +5,6 @@ description: Get in touch with Mr. An Van Nguyen and the Inner Space team.
 permalink: /contact/
 ---
 
-## 🧠 About *Inner Space*
-
-**Inner Space** is a personal project created by **Mr. An Van Nguyen (anvndev)** — a space to share reflections, emotional experiences, and psychological insights.
-
-Born out of a desire to express inner thoughts and promote self-understanding, this project aims to offer a quiet place where stories are told with honesty and empathy.
-
-Through each written piece, I hope you'll find something meaningful — whether it’s strength, clarity, or simply a sense of comfort in knowing you're not alone.
-
-**Wishing you peace, growth, and all good things on your journey.**
-
 
 # Get in Touch
 
