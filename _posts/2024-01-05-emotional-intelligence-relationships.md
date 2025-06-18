@@ -2,11 +2,11 @@
 layout: post
 title: "The Role of Emotional Intelligence in Building Stronger Relationships"
 description: "Discover how developing emotional intelligence can transform your relationships, improve communication, and create deeper connections with others."
-date: 2024-01-05
+date: 2025-01-05
 categories: [Relationships, Personal Growth]
 tags: [emotional-intelligence, communication, relationships, empathy, self-awareness]
 image: "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=1200"
-author: "Mr. An Nguyen"
+author: "psyofme"
 ---
 
 Relationships are the cornerstone of human well-being, yet many of us struggle to build and maintain the deep, meaningful connections we crave. While we often focus on external factors—shared interests, physical attraction, or practical compatibility—research consistently shows that emotional intelligence (EI) is one of the strongest predictors of relationship success.

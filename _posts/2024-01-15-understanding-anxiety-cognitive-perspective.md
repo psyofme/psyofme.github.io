@@ -2,11 +2,11 @@
 layout: post
 title: "Understanding Anxiety Through a Cognitive Lens"
 description: "Explore how cognitive behavioral therapy explains anxiety and provides practical tools for managing anxious thoughts and behaviors."
-date: 2024-01-15
+date: 2025-01-15
 categories: [Clinical Psychology]
 tags: [anxiety, CBT, cognitive-therapy, mental-health]
 image: "https://www.verywellmind.com/thmb/G_Qn-SIl5EZNqkslOyq1E4Hyj9o=/4288x0/filters:no_upscale():max_bytes(150000):strip_icc()/185325970-56a795e75f9b58b7d0ebee41.jpg"
-author: "Mr. An Nguyen"
+author: "An Nguyen"
 featured: true
 ---
 

@@ -3,27 +3,28 @@
 ======================================== */
 :root {
   /* Light Theme Colors */
-  --primary-color: #286747;
-  --secondary-color: #7C8D85;
-  --forest-color: #2C4A3B;
-  --cream-color: #F5F1E8;
-  --background-color: #FFFFFF;
-  --card-background: #FFFFFF;
+  --primary-color: #2d7451;
+  --secondary-color: #7c8d85;
+  --forest-color: #2c4a3b;
+  --cream-color: #f5f1e8;
+  --background-color: #fdfdfb;
+  --card-background: #f8f9fa;
   --text-primary: #333333;
   --text-secondary: #666666;
   --text-muted: #999999;
   --border-color: rgba(124, 141, 133, 0.2);
   --shadow-color: rgba(30, 59, 44, 0.1);
   --shadow-hover: rgba(30, 59, 44, 0.15);
-  --text-white: #FFFFFF;
-  
+  --text-white: #ffffff;
+
   /* Typography */
-  --font-heading: 'Merriweather', serif;
-  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: "Merriweather", serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
   --font-size-base: 16px;
   --line-height-base: 1.7;
   --line-height-heading: 1.3;
-  
+
   /* Spacing */
   --space-xs: 0.5rem;
   --space-sm: 1rem;
@@ -32,7 +33,7 @@
   --space-xl: 3rem;
   --space-2xl: 4rem;
   --space-theme: 10rem;
-  
+
   /* Layout */
   --container-max-width: 1200px;
   --content-max-width: 800px;
@@ -45,10 +46,10 @@
 
 [data-theme="dark"] {
   /* Dark Theme Colors */
-  --background-color: #1A1A1A;
-  --card-background: #2A2A2A;
-  --text-primary: #E5E5E5;
-  --text-secondary: #B8B8B8;
+  --background-color: #1a1a1a;
+  --card-background: #2a2a2a;
+  --text-primary: #e5e5e5;
+  --text-secondary: #b8b8b8;
   --text-muted: #888888;
   --border-color: rgba(229, 229, 229, 0.1);
   --shadow-color: rgba(0, 0, 0, 0.3);
@@ -80,7 +81,12 @@ body {
 }
 
 /* Typography */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-heading);
   font-weight: 600;
   line-height: var(--line-height-heading);
@@ -88,12 +94,24 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-primary);
 }
 
-h1 { font-size: 2.5rem; }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.5rem; }
-h4 { font-size: 1.25rem; }
-h5 { font-size: 1.125rem; }
-h6 { font-size: 1rem; }
+h1 {
+  font-size: 2.5rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+h4 {
+  font-size: 1.25rem;
+}
+h5 {
+  font-size: 1.125rem;
+}
+h6 {
+  font-size: 1rem;
+}
 
 p {
   margin-bottom: var(--space-sm);
@@ -153,7 +171,7 @@ img {
 }
 
 .toggle-switch::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 2px;
   left: 2px;
@@ -249,7 +267,11 @@ img {
 
 .logo-icon {
   font-size: 2rem;
-  background: linear-gradient(135deg, var(--primary-color), var(--forest-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--forest-color)
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -304,7 +326,11 @@ img {
    Hero Section
 ======================================== */
 .hero {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--forest-color) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--primary-color) 0%,
+    var(--forest-color) 100%
+  );
   color: var(--cream-color);
   padding: var(--space-2xl) 0;
   text-align: center;
@@ -313,7 +339,7 @@ img {
 }
 
 .hero::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -382,14 +408,18 @@ img {
 }
 
 .section-title::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -var(--space-sm);
   left: 50%;
   transform: translateX(-50%);
   width: 60px;
   height: 3px;
-  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(
+    90deg,
+    var(--primary-color),
+    var(--secondary-color)
+  );
   border-radius: 2px;
 }
 
@@ -514,7 +544,11 @@ img {
 }
 
 .post-card-category {
-  background: linear-gradient(135deg, var(--primary-color), var(--forest-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--forest-color)
+  );
   color: var(--cream-color);
   padding: 4px var(--space-sm);
   border-radius: var(--border-radius);
@@ -531,7 +565,7 @@ img {
 }
 
 .reading-time::before {
-  content: '📖';
+  content: "📖";
   font-size: 0.8rem;
 }
 
@@ -545,7 +579,11 @@ img {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+  background: linear-gradient(
+    135deg,
+    var(--secondary-color),
+    var(--primary-color)
+  );
   display: flex;
   align-items: center;
   justify-content: center;
@@ -576,7 +614,7 @@ img {
 }
 
 .category-card::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -593,7 +631,11 @@ img {
 .category-icon {
   font-size: 3rem;
   margin-bottom: var(--space-md);
-  background: linear-gradient(135deg, var(--primary-color), var(--forest-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--forest-color)
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -689,13 +731,17 @@ img {
 }
 
 .post-content h2::before {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
   bottom: 0;
   width: 4px;
-  background: linear-gradient(135deg, var(--primary-color), var(--forest-color));
+  background: linear-gradient(
+    135deg,
+    var(--primary-color),
+    var(--forest-color)
+  );
   border-radius: 2px;
 }
 
@@ -856,14 +902,23 @@ img {
    Loading Animation
 ======================================== */
 .loading-skeleton {
-  background: linear-gradient(90deg, var(--border-color) 25%, transparent 50%, var(--border-color) 75%);
+  background: linear-gradient(
+    90deg,
+    var(--border-color) 25%,
+    transparent 50%,
+    var(--border-color) 75%
+  );
   background-size: 200% 100%;
   animation: loading 1.5s infinite;
 }
 
 @keyframes loading {
-  0% { background-position: 200% 0; }
-  100% { background-position: -200% 0; }
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
 }
 
 /* ========================================
@@ -918,16 +973,16 @@ img {
     --space-xl: 2rem;
     --space-2xl: 2.5rem;
   }
-  
+
   .theme-toggle {
     top: var(--space-md);
     left: var(--space-md);
   }
-  
+
   .nav-toggle {
     display: flex;
   }
-  
+
   .nav-menu {
     display: none;
     position: absolute;
@@ -941,54 +996,54 @@ img {
     border-radius: 0 0 var(--border-radius-lg) var(--border-radius-lg);
     border-top: 0.5px solid var(--border-color);
   }
-  
+
   .nav-menu.active {
     display: flex;
   }
-  
+
   .hero-title {
     font-size: 2.5rem;
   }
-  
+
   .hero-subtitle {
     font-size: 1.1rem;
   }
-  
+
   .section-title {
     font-size: 2rem;
   }
-  
+
   .post-title {
     font-size: 2.2rem;
   }
-  
+
   .posts-grid {
     grid-template-columns: 1fr;
     gap: var(--space-lg);
   }
-  
+
   .post-card.featured {
     grid-template-columns: 1fr;
   }
-  
+
   .categories-grid {
     grid-template-columns: 1fr;
   }
-  
+
   .post-meta {
     justify-content: flex-start;
     gap: var(--space-md);
   }
-  
+
   .footer-content {
     grid-template-columns: 1fr;
     text-align: center;
   }
-  
+
   .social-links {
     justify-content: center;
   }
-  
+
   .floating-actions {
     bottom: var(--space-md);
     right: var(--space-md);
@@ -999,28 +1054,28 @@ img {
   .container {
     padding: 0 var(--space-md);
   }
-  
+
   .hero {
     padding: var(--space-xl) 0;
   }
-  
+
   .hero-title {
     font-size: 2rem;
   }
-  
+
   .latest-posts,
   .categories-section {
     padding: var(--space-xl) 0;
   }
-  
+
   .post-content {
     padding: 0;
   }
-  
+
   .post-card-content {
     padding: var(--space-lg);
   }
-  
+
   .category-card {
     padding: var(--space-lg);
   }
@@ -1035,12 +1090,12 @@ img {
   .nav-toggle {
     display: none !important;
   }
-  
+
   body {
     background: white !important;
     color: black !important;
   }
-  
+
   .post-card,
   .category-card {
     box-shadow: none !important;

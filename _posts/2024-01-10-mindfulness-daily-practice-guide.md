@@ -2,11 +2,11 @@
 layout: post
 title: "Building a Sustainable Mindfulness Practice: A Practical Guide"
 description: "Learn how to establish and maintain a mindfulness practice that fits into your daily life, with evidence-based techniques and realistic expectations."
-date: 2024-01-10
+date: 2025-01-10
 categories: [Mindfulness]
 tags: [meditation, mindfulness, stress-reduction, daily-practice, mental-health]
 image: "https://imgs.search.brave.com/hiklIP2Yl7J4pI6PylbF71zbZvpdjqU-DZHPvIdM9yM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA4LzQyLzE0Lzk5/LzM2MF9GXzg0MjE0/OTkxM19lcFROUHZC/NkJMUmpDSmV1M0NZ/TVNaQ1RPNUR5aVpt/ay5qcGc"
-author: "Mr. An Nguyen"
+author: "psyofme"
 ---
 
 In our increasingly fast-paced world, mindfulness has emerged as a powerful antidote to stress, anxiety, and the constant mental chatter that can dominate our daily experience. Yet many people struggle to establish a consistent mindfulness practice, often because they approach it with unrealistic expectations or overly ambitious goals.
