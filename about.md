@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Learn about Mr. An Van Nguyen (anvndev) and the mission behind psyofme psychology blog.
+description: Learn about Mr. An Nguyen and the mission behind psyofme psychology blog.
 permalink: /about/
 ---
 
@@ -9,7 +9,7 @@ permalink: /about/
 
 Welcome to psyofme, a thoughtful exploration of human psychology, mental well-being, and the journey toward greater self-understanding.
 
-**psyofme** is a personal project created by **Mr. An Van Nguyen [anvndev](https://anvndev.github.io/)** — a space to share reflections, emotional experiences, and psychological insights.
+**psyofme** is a personal project created by **Mr. An Nguyen** — a space to share reflections, emotional experiences, and psychological insights.
 
 Born out of a desire to express inner thoughts and promote self-understanding, this project aims to offer a quiet place where stories are told with honesty and empathy.
 
@@ -24,7 +24,7 @@ In our fast-paced world, we often forget to pause and explore our inner landscap
 
 ## About Me
 
-I'm **Mr. An Van Nguyen**, also known as **anvndev** — a curious mind with a deep passion for psychology and inner exploration.
+I'm **Mr. An Van Nguyen** — a curious mind with a deep passion for psychology and inner exploration.
 
 As the founder of **psyofme**, I created this project with the hope of building a quiet, reflective place — where we can pause, heal, and gradually understand ourselves better.
 
@@ -60,10 +60,12 @@ While this blog provides educational content about psychology and mental health,
 
 ## Connect With Us
 
-We'd love to hear from you! Share your thoughts, questions, or topic suggestions:
+We'd love to hear from you! Share your thoughts, questeons, or topic suggestions:
 
 - **Email**: [psyofme](mailto:psyofme@gmail.com)
 - **Twitter**: [@psyofme](https://x.com/psyofme)
+
+<br>
 
 ## Disclaimer
 
@@ -72,4 +74,4 @@ The content on this blog is for educational and informational purposes only. It 
 ---
 <br>
 
-*Thank you for joining us on this journey of exploration and growth. May you find insights that illuminate your path toward greater well-being and authentic living.*
+> *Thank you for joining us on this journey of exploration and growth. May you find insights that illuminate your path toward greater well-being and authentic living.*

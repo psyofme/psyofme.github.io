@@ -9,7 +9,7 @@ permalink: /contact/
 # Get in Touch
 
 We'd love to hear from you! Whether you have questions about our content, suggestions for future topics, or just want to share your thoughts on psychology and mental well-being, we're here to listen. <br>
-Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and the **psyofme** team.
+Get in touch with Mr. An Ng and the **psyofme** team.
 
 ## Contact Information
 
@@ -29,7 +29,7 @@ Get in touch with Mr. An Van Nguyen [anvndev](https://anvndev.github.io/) and th
 Stay connected with us for daily insights and updates:
 
 - **Twitter**: [@psyofme](https://x.com/psyofme) - Daily tips and research highlights
-- **GitHub**: [anvndev](https://github.com/anvndev) - Technical aspects of the blog
+- **Youtube**: [@psyofme](https://www.youtube.com/@psyofme) - In-depth video content on psychology topics
 
 
 ## Newsletter
@@ -38,7 +38,7 @@ Stay connected with us for daily insights and updates:
 
 ## Important Note
 
-**This blog and its contact channels are not for crisis situations or urgent mental health concerns.** 
+**This blog and its contact channels are not for crisis situations or urgent mental health concerns.**
 
 
 For non-emergency but urgent mental health support, please contact your local mental health crisis center or speak with a qualified mental health professional.

@@ -5,9 +5,9 @@ description: >-
   Exploring the depths of human psychology through evidence-based insights,
   personal growth strategies, and mindful living practices.
 baseurl: ""
-url: "https://anvndev.github.io"
+url: "https://www.youtube.com/@psyofme"
 twitter_username: psyofme
-github_username: anvndev
+youtube_url: "https://www.youtube.com/@psyofme"
 
 # Author settings
 author:
@@ -36,7 +36,7 @@ social:
   name: psyofme
   links:
     - https://twitter.com/psyofme
-    - https://github.com/anvndev
+    - https://www.youtube.com/@psyofme
 
 # Archives
 jekyll-archives:
