@@ -60,3 +60,5 @@ lerna-debug.log*
 .Trashes
 ehthumbs.db
 Thumbs.db
+.commit_suggest_history.json
+
