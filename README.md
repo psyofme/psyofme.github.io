@@ -1,4 +1,4 @@
-# [psyofme - Psychology Blog](https://anvndev.github.io/psyofme/)
+# [psyofme - Psychology Blog](https://psyofme.github.io/)
 
 A professional Jekyll-based blog focused on psychology, mental health, mindfulness, and personal growth. Built with clean design principles and optimized for readability and user experience.
 
@@ -32,9 +32,6 @@ Through each written piece, I hope you'll find something meaningful — whether 
 ### Local Development
 
 ```bash
-# Clone the repository
-git clone https://github.com/anvndev/psyofme.git
-cd psyofme
 
 # Install dependencies
 bundle install
@@ -156,9 +153,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Contact**: [avndev](https://anvndev.github.io/)
 - **Twitter**: [@psyofme](https://twitter.com/psyofme)
-- **GitHub**:  [anvndev](https://github.com/anvndev)
+- Youtube: [Psyofme Channel](https://www.youtube.com/@psyofme)
 
 ## 🙏 Acknowledgments
 
