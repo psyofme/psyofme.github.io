@@ -11,7 +11,7 @@ youtube_url: "https://www.youtube.com/@psyofme"
 
 # Author settings
 author:
-  name: Mr. An Nguyen
+  name: Andrey Ng
   email: psyofme@gmail.com
   bio: "Licensed Clinical Psychologist specializing in cognitive behavioral therapy, mindfulness, and personal growth."
   avatar: "/assets/images/author-avatar.jpg"
@@ -61,7 +61,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Mr. An Nguyen"
+      author: "Andrey Ng"
   - scope:
       path: ""
       type: "pages"

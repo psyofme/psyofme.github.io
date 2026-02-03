@@ -4,7 +4,7 @@ A professional Jekyll-based blog focused on psychology, mental health, mindfulne
 
 ## 🧠 About psyofme
 
-**psyofme** is a personal project created by **Mr. An Van Nguyen [anvndev](https://anvndev.github.io/)** — a space to share reflections, emotional experiences, and psychological insights.
+**psyofme** is a personal project created by **Andrey Ng** — a space to share reflections, emotional experiences, and psychological insights.
 
 Born out of a desire to express inner thoughts and promote self-understanding, this project aims to offer a quiet place where stories are told with honesty and empathy.
 
@@ -68,7 +68,7 @@ date: YYYY-MM-DD
 categories: [Clinical Psychology, Personal Growth, Mindfulness, Relationships]
 tags: [tag1, tag2, tag3]
 image: "path/to/image.jpg"
-author: "Mr. An Nguyen"
+author: "Andrey Ng"
 featured: true/false
 ---
 

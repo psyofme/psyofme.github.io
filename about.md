@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Learn about Mr. An Nguyen and the mission behind psyofme psychology blog.
+description: Learn about Psyofme and the mission behind psyofme psychology blog.
 permalink: /about/
 ---
 
@@ -9,7 +9,7 @@ permalink: /about/
 
 Welcome to psyofme, a thoughtful exploration of human psychology, mental well-being, and the journey toward greater self-understanding.
 
-**psyofme** is a personal project created by **Mr. An Nguyen** — a space to share reflections, emotional experiences, and psychological insights.
+**Psyofme** is a personal project created by **Andrey Ng** — a space to share reflections, emotional experiences, and psychological insights.
 
 Born out of a desire to express inner thoughts and promote self-understanding, this project aims to offer a quiet place where stories are told with honesty and empathy.
 
@@ -24,7 +24,7 @@ In our fast-paced world, we often forget to pause and explore our inner landscap
 
 ## About Me
 
-I'm **Mr. An Van Nguyen** — a curious mind with a deep passion for psychology and inner exploration.
+I'm **Mr. Andrey Ng** — a curious mind with a deep passion for psychology and inner exploration.
 
 As the founder of **psyofme**, I created this project with the hope of building a quiet, reflective place — where we can pause, heal, and gradually understand ourselves better.
 

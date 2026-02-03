@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-description: Get in touch with Mr. An Van Nguyen and the psyofme team.
+description: Get in touch with Andrey Ng and the psyofme team.
 permalink: /resources/
 ---
 

@@ -6,7 +6,7 @@ date: 2025-01-15
 categories: [Clinical Psychology]
 tags: [anxiety, CBT, cognitive-therapy, mental-health]
 image: "https://www.verywellmind.com/thmb/G_Qn-SIl5EZNqkslOyq1E4Hyj9o=/4288x0/filters:no_upscale():max_bytes(150000):strip_icc()/185325970-56a795e75f9b58b7d0ebee41.jpg"
-author: "An Nguyen"
+author: "Andrey Ng"
 featured: true
 ---
 
